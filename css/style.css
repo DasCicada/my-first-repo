@@ -1,13 +1,7 @@
-h1{
-    color : blue;
-    font-size: 45px;
-    text-align: center;
-}
-
-img{
-    opacity: 0.5;
-}
-
-body{
-    color: crimson;
-}
+body {
+    background-color: rgb(238, 236, 229);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  aside {
+    float: right;
+  }
